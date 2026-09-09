@@ -10,3 +10,20 @@
     "wdth" 100;
 } */
 
+*{
+    margin: 0.5 rem;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+nav {
+    border: 0.3rem solid black;
+    border-radius: 1rem;
+    font-size: 3rem;
+    width: 440px;
+}
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+}
